@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata minClientVersion="2.8.3">
-		<id>Polyliner.Net</id>
-		<title>Polyliner.Net</title>
+		<id>Sharpy.Net.Extensions</id>
+		<title>Sharpy.Net.Extensions</title>
 		<version>0.0.1</version>
 		<releaseNotes>
 # 0.0.1 Initial version.
@@ -23,7 +23,7 @@
 		<file src="..\LICENSE.txt" target="" />
 
 		<!--DLL-->
-		<file src="Sharpy.NET\bin\Release\netstandard2.0\SharpyNet.Extensions.dll" target="lib\netstandard2.0" />
-		<file src="Sharpy.NET\bin\Release\netstandard2.0\SharpyNet.Extensions.pdb" target="lib\netstandard2.0\" />
+		<file src="bin\Release\netstandard2.0\SharpyNet.Extensions.dll" target="lib\netstandard2.0" />
+		<file src="bin\Release\netstandard2.0\SharpyNet.Extensions.pdb" target="lib\netstandard2.0\" />
 	</files>
 </package>
